@@ -11,12 +11,8 @@ d’informer le projet d’expansion et de répondre aux questions :
         Pour chacun de ces pays, quelle sera l’évolution de ce potentiel de clients ?
         Dans quels pays l'entreprise doit-elle opérer en priorité ?
         
-![Graphique des répartitions](https://im3.ezgif.com/tmp/ezgif-3-5ec6b5fe57.png)
-        
-        
-        
-        
-        
+![P2DS](https://user-images.githubusercontent.com/105881992/234869550-695913e6-1045-4085-af54-46a936cf5586.png)
+ 
         
  
  
